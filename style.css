@@ -1,0 +1,42 @@
+
+a:visited{color: white;}
+a:hover{color: white;}
+a{text-decoration: none;}
+h2{margin-bottom: 10px;}
+
+.button{
+    border-color: rgb(250, 162, 162);
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1px;
+    background-color: rgb(250, 162, 162);
+    padding: 1px 7px 2px;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+}
+body{
+    background-color: rgb(255, 208, 208);
+}
+.pic{
+    width: 800px;
+    margin: 35px;
+    margin-left: 10px;
+    padding: 15px;
+}
+.card-body{
+    background-color: rgb(255, 208, 208);
+    padding-bottom: 110px;
+    
+}
+.card{
+    /* border: 10px solid black; */
+    background: rgb(250, 162, 162);
+    width: 775px;
+    margin-top: 35px;
+    padding: 5px;
+}
+.btn{
+    background-color: rgb(250, 162, 162);
+    color: white;
+}
